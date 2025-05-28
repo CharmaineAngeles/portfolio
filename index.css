@@ -45,9 +45,6 @@ header {
 header table {
     width:100%;
 }
-#logo {
-    width:20%;
-}
 #navigation {
     width:80%;
 }
@@ -81,8 +78,10 @@ header table {
     margin:0px auto;
 }
 #logo {
-    font-size:18px;
+    font-size:24px;
     color:rgb(255, 44, 90);
+    width: auto; 
+    white-space: nowrap;
 }
 #navigation {
     text-align:right;
